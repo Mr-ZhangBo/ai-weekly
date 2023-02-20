@@ -4,6 +4,11 @@
 
 ![](./src//assets/readme/demo.png)
 
+## 使用说明
+
+### 使用前请替换域名
+![](./src//assets/readme/demo2.png)
+
 ## Project setup
 ```
 npm run install
