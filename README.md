@@ -2,12 +2,12 @@
 
 ## 基于OPENAI开发的简易小工具，欢迎大家使用
 
-![](./src//assets/readme/demo.png)
+![](./src/assets/readme/demo.png)
 
 ## 使用说明
 
 ### 使用前请替换域名
-![](./src//assets/readme/demo2.png)
+![](./src/assets/readme/demo2.jpg)
 
 ## Project setup
 ```
